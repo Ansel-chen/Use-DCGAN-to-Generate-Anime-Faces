@@ -1,6 +1,8 @@
-please install dataset in [https://huggingface.co/datasets/huggan/anime-faces/blob/main/](https://huggingface.co/datasets/huggan/anime-faces)  
+dataset is in [https://huggingface.co/datasets/huggan/anime-faces/blob/main/](https://huggingface.co/datasets/huggan/anime-faces) which is included in DAGAN/dataset
 
-this is my first GAN model experience
+you can delete output and run train.py
+
+this is my first GAN model experience.
 
 here are the results：
 
